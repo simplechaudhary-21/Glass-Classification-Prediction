@@ -61,7 +61,7 @@ pip install pandas scikit-learn
 2. Place the `glass.csv` dataset in the same directory as the notebook.
 3. Open the Jupyter notebook:
    ```bash
-   jupyter notebook Ex_08_Glass.ipynb
+   jupyter notebook Glass Classification.ipynb
    ```
 4. Run all cells to reproduce the analysis and results.
 
