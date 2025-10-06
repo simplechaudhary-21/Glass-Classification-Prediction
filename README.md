@@ -65,11 +65,5 @@ pip install pandas scikit-learn
    ```
 4. Run all cells to reproduce the analysis and results.
 
-## Potential Improvements
-- Experiment with different values of `n_neighbors` to optimize the KNN model.
-- Use cross-validation to ensure robust performance evaluation.
-- Try other classification algorithms (e.g., Random Forest, SVM) for comparison.
-- Perform feature selection or engineering to improve model accuracy.
-
 ## License
 This project is licensed under the MIT License.
